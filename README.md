@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Raj Sahay</h1>
+<h1 align="center">Hi 👋, I'm Vivek Raj</h1>
 <h3 align="center">A passionate Java Backend Developer & Tech Enthusiast</h3>
 
 <p align="center">
@@ -25,11 +25,13 @@
 
 ### Frameworks & Tools:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 ![JPA](https://img.shields.io/badge/JPA-%23FF6F00.svg?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F36836?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
@@ -63,6 +65,9 @@
 </a>
 <a href="mailto:vivekaman742@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://x.com/VivekRajSahay1" target="blank">
+  <img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
 </a>
 </p>
 
