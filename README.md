@@ -7,16 +7,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on: **Spring E-Commerce Backend**  
-- 🌱 I’m learning: **Cloud Computing + DevOps + Advanced Java with Spring Boot**  
-- 👯 I’m looking to collaborate on: **Backend APIs, Cloud Projects, Open Source**  
-- 📝 I regularly write code in: **Java, SQL, Spring Boot**  
-- 📫 How to reach me: **vivekaman742@gmail.com**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages:
