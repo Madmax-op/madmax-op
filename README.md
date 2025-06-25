@@ -43,14 +43,13 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madmax-op&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madmax-op&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madmax-op&theme=darkhub&margin-w=15&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=madmax-op&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madmax-op&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+
+</div>
 
 ---
 
